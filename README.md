@@ -25,6 +25,7 @@ Criar um programa com Classes e Objetos que tenha um método chamado “contaPri
 Este método recebe como parâmetro dois números inteiros positivos, sendo o primeiro menor do
 que o segundo. O retorno do método será a quantidade de números primos encontrados do
 primeiro ao segundo valor informado.
+
 Ex: (‘obj’ é um objeto qualquer a escolha do aluno)
 x = obj.contaPrimos(5, 20) → x terá o valor 6, já que de 5 até 20 existem seis números primos.
 </details>
@@ -34,6 +35,7 @@ x = obj.contaPrimos(5, 20) → x terá o valor 6, já que de 5 até 20 existem s
 Utilizando o recurso de sobrecarga de métodos, crie um programa com uma Classe que
 contenha um método chamado “calcular( )”. O comportamento deste método muda de acordo
 com o parâmetro informado:
+
 - Retorna a área do círculo caso receba um valor do tipo double;
 - Retorna a área do quadrado caso receba dois valores do tipo double;
 - Retorna o perímetro de um triângulo caso receba três valores do tipo int;
